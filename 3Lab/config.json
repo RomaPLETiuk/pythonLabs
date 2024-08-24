@@ -1,0 +1,8 @@
+{
+    "file": "C:/Users/user/Desktop/python1/pletiuk/text_file.txt",
+    "language": "en",  
+    "output": "file",  
+    "char_limit": 10000,  
+    "word_limit": 2000,   
+    "sentence_limit": 100 
+  }
